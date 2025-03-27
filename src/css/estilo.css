@@ -1,0 +1,12 @@
+/* Seletor universal, reset básico */
+*{
+    margin:0;/*zera todos os lados da margem*/
+    padding:0 ;/* zera todos os lados do espaçamento interno*/
+    box-sizing: border-box;/*altera todas a configurações do seu layout, forma de largura e de altura*/
+
+
+}
+h1{
+    color:blue;
+    font-size:35px;
+}
